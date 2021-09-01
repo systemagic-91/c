@@ -2,6 +2,11 @@
 
 Linguagem C - Modulo I
 
+* variáveis
+* estrururas de decição
+* estruturas de repetição
+* operações matemáticas
+
 ### Bibliotecas:
 
 
