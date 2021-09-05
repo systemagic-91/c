@@ -12,4 +12,4 @@ O repositório foi criado para manter os projetos desenvolvidos no curso de C da
 
 Todos os jogos podem ser testados via terminal.
 
-**OBS:** para exercutar o jogo PACMAN é nessessario compilar os 3 arquivos .c em linha de comando. Ex: `~gcc pacman.c mapa.c ui.c -o pacman.out~`
+**OBS:** para exercutar o jogo PACMAN é nessessario compilar os 3 arquivos .c em linha de comando. Ex: `gcc pacman.c mapa.c ui.c -o pacman.out`
