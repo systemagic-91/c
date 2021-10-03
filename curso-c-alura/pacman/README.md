@@ -30,6 +30,6 @@ memset() :arrow_right: inicializar structs ou arrays com valor padrão.
 
 ### Anotações:
 
-* Se quiséssemos um ponteiro para apontar para uma matriz como um todo? Matrizes são ponteiros que apontam para outros ponteiros, a declaração é int**, ou seja, duas estrelas para representar "ponteiro de ponteiro". Lembrando que ponteiros guardam ENDEREÇOS DE MEMÓRIA então um "ponteiro de ponteiro" guarda o endereço de memória (onde ele está na memória) outro ponteiro.
+* Se quiséssemos um ponteiro para apontar para uma matriz como um todo? Matrizes são ponteiros que apontam para outros ponteiros, a declaração é int**, ou seja, duas estrelas para representar "ponteiro de ponteiro". Lembrando que ponteiros guardam ENDEREÇOS DE MEMÓRIA então um "ponteiro de ponteiro" guarda o endereço de memória (onde ele está na memória) de outro ponteiro.
 
 * ifndef é uma diretiva de compilação usada para verificar se uma constante (define) não foi previamente definido.
